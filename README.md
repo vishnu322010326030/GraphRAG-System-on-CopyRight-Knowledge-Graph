@@ -194,9 +194,7 @@ These are the questions exercised in `Code.ipynb`. The notebook does not include
 
 Natural next steps are canonicalizing duplicate entities, chunking long documents, and saving the property graph so extraction does not have to be repeated.
 
-## Author
 
-**Vishnu Swarup Pujari**
 
 - [LinkedIn](https://www.linkedin.com/in/vishnu-swarup-pujari-ab76661b9/)
 - [GitHub](https://github.com/vishnu322010326030)
